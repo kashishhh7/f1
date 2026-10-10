@@ -186,6 +186,4 @@ The Stock Market Portfolio Risk & Return Analyzer provides an interactive approa
 
 By combining return analysis, volatility, beta, Sharpe ratio, drawdown, portfolio allocation, benchmark comparison, and scenario analysis, the dashboard enables users to evaluate portfolio performance from multiple financial perspectives.
 
----
 
-⭐ If you find this project useful, feel free to star the repository!
